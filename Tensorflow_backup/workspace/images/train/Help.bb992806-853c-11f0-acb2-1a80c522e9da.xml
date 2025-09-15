@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Help.bb992806-853c-11f0-acb2-1a80c522e9da.jpg</filename>
+	<path>/Users/prithvibaddi/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/Help.bb992806-853c-11f0-acb2-1a80c522e9da.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>help</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>130</ymin>
+			<xmax>899</xmax>
+			<ymax>770</ymax>
+		</bndbox>
+	</object>
+</annotation>
